@@ -1,11 +1,11 @@
 <div align="center">
   <!-- Replace with your own banner image and typing SVG URLs -->
-  <<img width="1308" height="736" alt="WhatsApp Image 2026-09-06 at 10 06 21" src="https://github.com/user-attachments/assets/cd9581b0-ce0a-426f-a3ce-9d5b62ba8769" /> />
+  <<img width="1308" height="736" alt="WhatsApp Image 2026-09-06 at 10 06 21" src="https://github.com/user-attachments/assets/cd9581b0-ce0a-426f-a3ce-9d5b62ba8769" /> 
   <br/>
   <div align="center">
   <h2>Hi there 👋 this side AAROHI</h2>
-  <a align="center">
-   href="https://git.io/typing-svg">
+   <a align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFEFE00&width=435&lines=Code.+Create.+Conquer.;%E2%9C%A8%E2%80%9CDream+Big.+Learn+Every+Day.%E2%80%9D;%22Built+Your+Future%22" alt="Typing SVG" />
   <a/>
 </div>
