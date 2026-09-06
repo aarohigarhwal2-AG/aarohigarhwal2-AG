@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFEFE00&width=435&lines=Code.+Create.+Conquer.;%E2%9C%A8%E2%80%9CDream+Big.+Learn+Every+Day.%E2%80%9D;%22Built+Your+Future%22)](https://git.io/typing-svg)## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFEFE00&width=435&lines=Code.+Create.+Conquer.;%E2%9C%A8%E2%80%9CDream+Big.+Learn+Every+Day.%E2%80%9D;%22Built+Your+Future%22)](https://git.io/typing-svg)## Hi there 👋 this side AAROHI
 
 <!--
 **aarohigarhwal2-AG/aarohigarhwal2-AG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
