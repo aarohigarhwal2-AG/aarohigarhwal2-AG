@@ -4,7 +4,8 @@
   <br/>
   <div align="center">
   <h2>Hi there 👋 this side AAROHI</h2>
-  <a href="https://git.io/typing-svg">
+  <a align="center">
+   href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFEFE00&width=435&lines=Code.+Create.+Conquer.;%E2%9C%A8%E2%80%9CDream+Big.+Learn+Every+Day.%E2%80%9D;%22Built+Your+Future%22" alt="Typing SVG" />
   <a/>
 </div>
