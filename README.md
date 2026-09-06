@@ -4,10 +4,18 @@
   <br/>
   <div align="center">
   <h2>Hi there 👋 this side AAROHI</h2>
-   <a align="center">
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&background=FFFEFE00&width=435&lines=Code.+Create.+Conquer.;%E2%9C%A8%E2%80%9CDream+Big.+Learn+Every+Day.%E2%80%9D;%22Built+Your+Future%22" alt="Typing SVG" />
-  <a/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <div class="terminal-text">
