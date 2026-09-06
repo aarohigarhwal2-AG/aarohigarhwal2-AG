@@ -3,6 +3,7 @@
 <!--
 **aarohigarhwal2-AG/aarohigarhwal2-AG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img width="1308" height="736" alt="WhatsApp Image 2026-09-06 at 10 06 21" src="https://github.com/user-attachments/assets/cd9581b0-ce0a-426f-a3ce-9d5b62ba8769" />
 
 Here are some ideas to get you started:
 
