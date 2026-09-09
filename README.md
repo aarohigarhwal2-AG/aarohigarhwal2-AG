@@ -80,7 +80,6 @@
 
 
 ## 🌟 Featured Projects
-
 <style>
   .aether-grid {
     display: flex;
@@ -299,6 +298,20 @@
     </footer>
   </article>
 </div>
+
+    
+    
+   
+    
+  
+    
+    
+    
+  
+  
+    
+    
+      
 
 
 ## 📊 GITHUB Analytics
