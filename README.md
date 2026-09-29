@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace with your own banner image and typing SVG URLs -->
-  <<img width="1308" height="736" alt="WhatsApp Image 2026-09-06 at 10 06 21" src="https://github.com/user-attachments/assets/cd9581b0-ce0a-426f-a3ce-9d5b62ba8769" /> 
+  <<img width="1000" height="580" alt="WhatsApp Image 2026-09-06 at 10 06 21" src="https://github.com/user-attachments/assets/cd9581b0-ce0a-426f-a3ce-9d5b62ba8769" /> 
   <br/>
   <div align="center">
  
