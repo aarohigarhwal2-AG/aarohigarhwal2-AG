@@ -3,7 +3,7 @@
   <<img width="1308" height="736" alt="WhatsApp Image 2026-09-06 at 10 06 21" src="https://github.com/user-attachments/assets/cd9581b0-ce0a-426f-a3ce-9d5b62ba8769" /> 
   <br/>
   <div align="center">
-  <h2>Hi there 👋 this side AAROHI</h2>
+ 
   <h1 align="center">Hi 👋, I'm Aarohi Garhwal</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 
@@ -46,13 +46,7 @@
       
 
 
-## 📊 GITHUB Analytics
 
-<div align="center">
-  <!-- IMPORTANT: Replace 'YOUR_GITHUB_USERNAME' with your actual username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aarohigarhwal2-AG&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
 
 ### 📈 Contribution Activity
 <div align="center">
