@@ -4,10 +4,27 @@
 
   <br/><br/>
 
-  <h1>Hi 👋, I'm Aarohi Garhwal</h1>
-  <h3>Full-Stack Developer & AI/ML Innovator from India</h3>
+  <!-- Animation 1: Name Banner -->
+  <a href="https://github.com/aarohigarhwal2-AG">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Aarohi+Garhwal+%F0%9F%91%BE" alt="Name" />
+  </a>
 
-  <!-- Badges / Visitor Counters -->
+  <br/>
+
+  <!-- Animation 2: Cycling Subtitles -->
+  <a href="https://github.com/aarohigarhwal2-AG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39D353&center=true&vCenter=true&width=750&height=40&lines=B.Tech+CSE+(AI+%26+ML)+%40+SSTC;Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Scalable+Systems+%26+Intelligent+Workflows;Turning+Ideas+into+Impactful+Software+%F0%9F%9A%80" alt="Details" />
+  </a>
+
+  <br/>
+
+  <!-- Bio -->
+  <p>
+    I am a <b>B.Tech student at Shri Shankaracharya Technical Campus | CSE (AI &amp; ML)</b>.<br>
+    I love architecting full-stack web applications, integrating intelligent AI workflows, and building software solutions that solve real-world problems.
+  </p>
+
+  <!-- Visitor Counters -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=aarohigarhwal2-AG&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=aarohigarhwal2-AG.aarohigarhwal2-AG&" alt="Visitors" />
@@ -29,6 +46,13 @@
   </p>
 </div>
 
+<br/>
+
+<!-- Animated Rainbow Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+</div>
+
 ---
 
 ### 💫 About Me
@@ -37,6 +61,7 @@
 - 🌱 **Specialization:** Turning complex problems into elegant systems — modern UI/UX design, scalable backend architectures, and algorithmic optimization.
 - 💬 **Ask Me About:** React, Node.js, Python, OpenCV, Flask, Django, and RESTful APIs.
 - ⚡ **Goal:** Building impactful software for real-world scenarios and participating in hackathons.
+- 📫 **Contact:** [aarohigarhwal2@gmail.com](mailto:aarohigarhwal2@gmail.com)
 
 ---
 
@@ -180,6 +205,37 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarohigarhwal2-AG&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/aarohigarhwal2-AG/aarohigarhwal2-AG/snake-output/snake.svg" alt="Snake Animation" />
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarohigarhwal2-AG/aarohigarhwal2-AG/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarohigarhwal2-AG/aarohigarhwal2-AG/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aarohigarhwal2-AG/aarohigarhwal2-AG/output/github-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<!-- Animated Rainbow Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" width="100%">
+</div>
+
+<div align="center">
+  <b>Multiplayer Co-op? Let's connect!</b>
+  <br><br>
+  <a href="mailto:aarohigarhwal2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aarohi-garhwal-065266302" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aarohigarhwal2-AG" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
